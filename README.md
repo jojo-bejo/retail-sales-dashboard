@@ -1,15 +1,19 @@
-Hi, I'm Jojo 👋
+# Retail Sales Performance Dashboard (Power BI)
 
-I'm a Power BI Data Analyst with 18+ years of experience in FMCG distribution and supply chain.
+## 📊 Overview
+Interactive dashboard to analyze retail sales across regions, products, and time.
 
-🔹 I build dashboards that help businesses:
-- Track sales performance
-- Monitor inventory and stock levels
-- Improve decision-making using data
+## 🚀 Key Features
+- KPIs: Total Sales, Profit, Quantity, Profit Margin %, MoM Growth %, YTD Sales  
+- Monthly trend analysis with dynamic date slicer  
+- Regional and product performance breakdown  
+- Drillthrough to product-level details  
+- Conditional formatting for performance insights  
 
-📊 Projects:
-- Retail Sales Dashboard (Power BI)
-- (Next: Supply Chain Dashboard)
+## 🛠 Tools Used
+- Power BI  
+- DAX  
+- Data Modeling  
 
-📍 Based in the Philippines# retail-sales-dashboard
-Power BI dashboard analyzing retail sales performance
+## 📸 Dashboard Preview
+![Dashboard](Retail_Sales_Dashboard.png)
