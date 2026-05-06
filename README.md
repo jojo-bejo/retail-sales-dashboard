@@ -30,3 +30,5 @@ This project is part of my transition into Data Analytics, leveraging 18+ years 
 
 ## 📂 Dataset
 Sample retail dataset used for dashboard development and analysis.
+
+📍 Created by Jose Jojo Bejo | Power BI Portfolio Project | 2026
